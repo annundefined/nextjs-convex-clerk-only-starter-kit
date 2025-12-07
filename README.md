@@ -1,4 +1,6 @@
-A complete starter kit template for building a [Next.js](https://nextjs.org) SaaS applications powered by `Convex` and `Clerk`.
+# Next.js SaaS Starter Kit
+
+A complete starter kit template for building a [Next.js](https://nextjs.org) SaaS applications powered by `Convex` and `Clerk` (for auth _and_ payments).
 
 ## Demo
 
